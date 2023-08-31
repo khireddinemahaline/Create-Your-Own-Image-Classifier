@@ -1,3 +1,11 @@
-# AI Programming with Python Project
+# Image Classification Application
 
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
+# 1. Project Description
+This project will implement an image classification application that can be used to classify images of different objects. The application will first train a deep learning model on a dataset of images. Then, the trained model will be used to classify new images.
+
+# 2. Project Goals:
+
+* The goals of this project are to:
+* Learn how to implement an image classification application
+* Gain experience with deep learning models
+* Develop a working image classification application
